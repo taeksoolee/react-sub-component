@@ -1,5 +1,6 @@
 {
   "name": "sub-react-components",
+  "main": "libs/index.ts",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
